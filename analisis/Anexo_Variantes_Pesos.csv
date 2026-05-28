@@ -1,0 +1,103 @@
+﻿Gen;Cambio_ADN;Cambio_Proteina;Efecto;Hazard_Ratio;Composite_Score;quantile_score;ClinSig;gnomAD
+ABCC4;c.2639G>A;p.Arg880Gln;missense variant;1.18299;0.15919;0.99666;-;1e-05
+ABCC4;c.3122T>C;p.Ile1041Thr;missense variant;1.18299;0.13695;0.99539;-;0.0
+ABCG5;c.593G>A;p.Arg198Gln;missense variant;0.81634;0.04914;0.98102;Conflicting classifications of pathogenicity;0.00166
+ABCG5;c.293C>G;p.Ala98Gly;missense variant;0.81634;0.16945;0.99879;Conflicting classifications of pathogenicity;0.00192
+ABCG5;c.1733A>G;p.Asn578Ser;missense variant;0.81634;0.27692;0.99495;Uncertain significance;0.00011
+ABCG5;c.914C>G;p.Thr305Arg;missense variant;0.81634;1.19056;0.99996;Conflicting classifications of pathogenicity;1e-05
+ABCG8;c.712G>A;p.Glu238Lys;missense variant;1.20543;0.16518;0.99529;Conflicting classifications of pathogenicity;0.00176
+ABCG8;c.491G>A;p.Arg164Gln;missense variant;1.20543;0.08487;0.99183;Conflicting classifications of pathogenicity;2e-05
+ADGRG1;c.1949A>G;p.Gln650Arg;missense variant;1.43991;0.06898;0.9932;Uncertain significance;0.0
+ADGRG1;c.1798C>T;p.Arg600Cys;missense variant;1.43991;0.03816;0.95842;Uncertain significance;7e-05
+ANKRD26;c.371A>T;p.Gln124Leu;missense variant;1.14473;0.1989;0.99666;Conflicting classifications of pathogenicity;7e-05
+ANKRD26;c.542C>T;p.Thr181Ile;missense variant;1.14473;0.07908;0.99447;Conflicting classifications of pathogenicity;0.00163
+ARPC1B;c.932C>G;p.Ser311Cys;missense variant;0.88094;0.03495;0.98305;Uncertain significance;0.00019
+ARPC1B;c.536G>A;p.Arg179Gln;missense variant;0.88094;0.04786;0.98619;-;0.0
+ARPC1B;c.298C>T;p.Arg100Cys;missense variant;0.88094;0.04335;0.98267;-;1e-05
+CD36;c.1238T>C;p.Ile413Thr;missense variant;1.17962;0.37265;0.99932;-;1e-05
+CD36;c.1019A>G;p.Tyr340Cys;missense variant;1.17962;0.16215;0.99649;-;2e-05
+CD36;c.1013C>T;p.Pro338Leu;missense variant;1.17962;0.57667;0.99916;Uncertain significance;2e-05
+CD36;c.429+2T>C;-;splice donor variant;1.17962;5.13286;0.99999;Conflicting classifications of pathogenicity;0.0
+CP;c.322C>T;p.His108Tyr;missense variant;0.95167;0.07483;0.99201;Conflicting classifications of pathogenicity;0.0
+CP;c.2684G>C;p.Gly895Ala;missense variant;0.95167;0.12178;0.99483;Conflicting classifications of pathogenicity;0.00213
+DGKH;c.151C>A;p.Leu51Met;missense variant;1.13413;0.0489;0.98227;-;8e-05
+DGKH;c.623-10_623-3dupTTTTTTTT;-;splice acceptor variant;1.13413;0.97322;0.99987;-;-
+DGKH;c.686C>T;p.Thr229Ile;missense variant;1.13413;0.12434;0.99507;Uncertain significance;0.00012
+DGKH;c.3620G>A;p.Gly1207Glu;missense variant;1.13413;0.11109;0.99873;-;-
+DGKH;c.2478A>T;p.Gln826His;missense variant;1.13413;0.05615;0.97969;-;-
+DGKH;c.3497G>A;p.Gly1166Glu;missense variant;1.13413;0.80702;0.99971;-;-
+DGKH;c.3520C>T;p.Arg1174Cys;missense variant;1.13413;0.55437;0.99925;Uncertain significance;0.00064
+DGKI;c.765C>A;p.His255Gln;missense variant;0.91757;0.09157;0.99084;-;-
+DGKI;c.42_60dupAGCGGCGCGCGGACCTGCC;p.Arg21fs;frameshift variant;0.91757;0.23102;0.99994;-;-
+F11;c.1708G>A;p.Ala570Thr;missense variant;0.98329;0.04142;0.96671;Uncertain significance;2e-05
+F11;c.973G>T;p.Val325Phe;missense variant;0.98329;0.177;0.9956;Likely pathogenic;1e-05
+F11;c.865+1_866-1del;-;splice acceptor variant;0.98329;5.2815;0.99999;-;-
+F11;c.1304+1_1304+2insGTAGAGTCACCTAAGATTTTGCGTGTCTACAGTGGCATTTTAAATCAATCTGAAATAAAAGAGGACACATC;-;splice donor variant;0.98329;3.60471;0.99999;-;-
+F5;c.1001G>C;p.Arg334Thr;missense variant;0.8722;0.03822;0.99746;Conflicting classifications of pathogenicity;8e-05
+F5;c.5245C>G;p.Leu1749Val;missense variant;0.8722;0.30072;0.99882;Conflicting classifications of pathogenicity;0.00164
+F5;c.2249A>G;p.Glu750Gly;missense variant;0.8722;0.042;0.98145;-;-
+F8;c.5131C>A;p.Gln1711Lys;missense variant;1.01534;0.0784;0.98739;-;-
+FGG;c.571G>A;p.Gly191Arg;missense variant;1.07359;0.3965;0.99925;Conflicting classifications of pathogenicity;0.0047
+FGG;c.124G>A;p.Gly42Ser;missense variant;1.07359;1.71998;0.99999;Conflicting classifications of pathogenicity;0.00033
+FLNA;c.5053A>G;p.Thr1685Ala;missense variant;0.98948;0.06981;0.99019;-;-
+FLNA;c.5033C>A;p.Ala1678Glu;missense variant;0.98948;0.07248;0.99254;-;-
+FLNA;c.3196A>G;p.Lys1066Glu;missense variant;0.98948;0.03305;0.97455;-;0.0
+FLNA;c.5779G>A;p.Val1927Met;missense variant;0.98948;0.03784;0.98227;-;-
+FLNA;c.6648C>A;p.Tyr2216*;stop gained;0.98948;0.26496;0.99854;-;-
+FLNA;c.4451A>G;p.Gln1484Arg;missense variant;0.98948;0.79501;0.99991;Conflicting classifications of pathogenicity;0.00166
+HFE;c.68G>A;p.Arg23His;missense variant;0.99905;0.13007;0.99957;Conflicting classifications of pathogenicity;0.0006
+HFE;c.829G>A;p.Glu277Lys;missense variant;0.99905;0.11655;0.99125;Conflicting classifications of pathogenicity;0.00052
+HPS3;c.132C>A;p.Phe44Leu;missense variant;1.25575;0.0562;0.98381;Uncertain significance;0.00018
+HPS3;c.2680C>T;p.His894Tyr;missense variant;1.25575;0.12006;0.99634;-;-
+HPS6;c.1127G>A;p.Arg376His;missense variant;1.20922;0.01699;0.03184;Uncertain significance;1e-05
+HPS6;c.1346C>G;p.Ser449Cys;missense variant;1.20922;0.02483;0.0389;Uncertain significance;0.00038
+HPS6;c.1778C>G;p.Pro593Arg;missense variant;1.20922;0.20005;0.99774;-;-
+ITGB3;c.754A>G;p.Ile252Val;missense variant;0.91505;0.15225;0.98925;Uncertain significance;0.00052
+ITGB3;c.1574G>A;p.Gly525Asp;missense variant;0.91505;0.11051;0.99518;-;0.0
+ITGB3;c.1324A>G;p.Ile442Val;missense variant;0.91505;0.04715;0.99505;-;1e-05
+MAST2;c.5374C>T;p.Arg1792Trp;missense variant;0.94875;0.06063;0.99836;Uncertain significance;1e-05
+MAST2;c.4259C>G;p.Ala1420Gly;missense variant;0.94875;0.07887;0.98875;-;0.00184
+MAST2;c.4434G>T;p.Gln1478His;missense variant;0.94875;0.06786;0.99758;-;-
+MAST2;c.2540G>A;p.Arg847His;missense variant;0.94875;0.34516;0.99908;Uncertain significance;5e-05
+MMRN1;c.802G>A;p.Asp268Asn;missense variant;1.17544;0.26974;0.99821;Uncertain significance;0.00179
+MMRN1;c.81G>T;p.Trp27Cys;missense variant;1.17544;0.11254;0.98587;-;0.0001
+MMRN1;c.1936A>G;p.Met646Val;missense variant;1.17544;0.02625;0.86897;-;-
+MPL;c.1610G>A;p.Arg537Gln;missense variant;1.17755;0.12263;0.97216;Uncertain significance;0.0001
+MPL;c.1258G>C;p.Glu420Gln;missense variant;1.17755;0.03155;0.86363;Uncertain significance;0.0
+MYH9;c.1337C>G;p.Ser446Cys;missense variant;1.02155;0.04032;0.98343;-;-
+MYH9;c.4933G>A;p.Ala1645Thr;missense variant;1.02155;0.14554;0.99642;-;0.0
+NBEA;c.5540C>G;p.Ser1847Cys;missense variant;1.13513;0.21655;0.99784;-;-
+NBEA;c.2135C>T;p.Thr712Met;missense variant;1.13513;0.65468;0.99967;-;2e-05
+NBEA;c.4306A>C;p.Ser1436Arg;missense variant;1.13513;0.0996;0.99254;-;2e-05
+NBEA;c.408A>G;p.Ile136Met;missense variant;1.13513;0.03159;0.93132;-;0.0
+NBEAL2;c.720_721delAG;p.Ala241fs;frameshift variant;1.08855;0.41395;0.99938;-;-
+NBEAL2;c.1948G>A;p.Gly650Arg;missense variant;1.08855;0.09995;0.99393;Conflicting classifications of pathogenicity;0.00109
+NBEAL2;c.5950C>T;p.Arg1984Cys;missense variant;1.08855;0.03136;0.94223;-;5e-05
+NBEAL2;c.4371_4375dupCGTGG;p.Glu1459fs;frameshift variant;1.08855;0.72566;0.99967;Likely pathogenic;-
+NBEAL2;c.6791G>A;p.Arg2264His;missense variant;1.08855;0.04318;0.9871;Uncertain significance;1e-05
+NBEAL2;c.8162A>T;p.Glu2721Val;missense variant;1.08855;0.32305;0.99833;-;-
+NOTCH3;c.4762A>C;p.Asn1588His;missense variant;1.34303;0.08985;0.99288;Uncertain significance;-
+PROC;c.596G>A;p.Arg199Gln;missense variant;1.20908;0.11758;0.98949;Uncertain significance;1e-05
+PROC;c.118C>T;p.Arg40Cys;missense variant;1.20908;0.21015;0.99741;Uncertain significance;2e-05
+PROCR;c.323-9_336dupTATCCACAGTTCCTCTGACCATC;p.Arg113fs;frameshift variant;1.03585;3.17703;0.99999;-;-
+PROS1;c.323C>T;p.Pro108Leu;missense variant;0.94645;0.06173;0.99527;Conflicting classifications of pathogenicity;0.001
+PROS1;c.592A>C;p.Asn198His;missense variant;0.94645;0.15567;0.99666;Uncertain significance;5e-05
+RGS2;c.328A>G;p.Ile110Val;missense variant;0.92178;0.04685;0.98639;-;0.00052
+SERPINC1;c.847A>G;p.Met283Val;missense variant;1.38554;0.04648;0.98453;-;0.0
+SERPINC1;c.998dupC;p.Glu334fs;frameshift variant;1.38554;0.24231;0.99702;-;-
+SERPINC1;c.391C>T;p.Leu131Phe;missense variant;1.38554;0.04964;0.99444;Pathogenic;1e-05
+SERPINC1;c.236G>A;p.Arg79His;missense variant;1.38554;0.05459;0.99816;Pathogenic;0.00028
+SERPIND1;c.842T>C;p.Ile281Thr;missense variant;1.23102;0.07312;0.99219;Conflicting classifications of pathogenicity;0.00011
+SERPIND1;c.1283C>G;p.Ser428*;stop gained;1.23102;0.0233;0.86632;-;-
+TBXAS1;c.1491C>G;p.Phe497Leu;missense variant;1.27068;0.13265;0.99145;-;0.0
+TBXAS1;c.1718A>G;p.Tyr573Cys;missense variant;1.27068;0.0904;0.99956;Conflicting classifications of pathogenicity;4e-05
+TFPI;c.509A>G;p.Glu170Gly;missense variant;1.05415;0.09262;0.99335;-;0.00011
+TFPI;c.307delA;p.Met103fs;frameshift variant;1.05415;0.24236;0.99923;-;-
+TFPI;c.670G>C;p.Gly224Arg;missense variant;1.05415;0.08086;0.9932;-;-
+THBD;c.937G>C;p.Gly313Arg;missense variant;1.01901;0.0358;0.34389;Uncertain significance;-
+THBD;c.1371C>A;p.Asn457Lys;missense variant;1.01901;0.01682;0.99013;Uncertain significance;0.0
+VPS33B;c.1519C>T;p.Arg507*;stop gained;1.31907;0.0402;0.97777;Pathogenic;0.0
+VPS33B;c.1558_1559delCT;p.Leu520fs;frameshift variant;1.31907;0.50713;0.99983;-;-
+VPS33B;c.1148T>C;p.Ile383Thr;missense variant;1.31907;0.0485;0.98059;Conflicting classifications of pathogenicity;0.00043
+VWF;c.5851A>G;p.Thr1951Ala;missense variant;1.02026;0.03334;0.96886;Conflicting classifications of pathogenicity;0.00049
+VWF;c.6859C>T;p.Arg2287Trp;missense variant;1.02026;0.07393;0.99457;Uncertain significance;2e-05
